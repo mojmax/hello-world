@@ -1,5 +1,7 @@
 # hello-world
-my git hello world my first changes
+my git hello world 
+
+my first changes
 
 ### Hello world
 
